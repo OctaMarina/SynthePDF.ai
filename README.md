@@ -27,13 +27,6 @@ This project was built as a personal portfolio piece to demonstrate practical sk
 
 ---
 
-## 📸 Preview
-
-![demo screenshot](https://your-screenshot-url-here)  
-_The interface shows raw text preview, summary section, and an interactive Q&A input._
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer        | Technology                |
